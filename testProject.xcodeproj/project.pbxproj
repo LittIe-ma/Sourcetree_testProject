@@ -14,6 +14,7 @@
 		F31CA3AD2795E9D0008CB8B3 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F31CA3AB2795E9D0008CB8B3 /* Main.storyboard */; };
 		F31CA3AF2795E9D0008CB8B3 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F31CA3AE2795E9D0008CB8B3 /* Assets.xcassets */; };
 		F31CA3B22795E9D0008CB8B3 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F31CA3B02795E9D0008CB8B3 /* LaunchScreen.storyboard */; };
+		F3A47D2D27AFD44100FC30DE /* Test2.swift in Sources */ = {isa = PBXBuildFile; fileRef = F3A47D2C27AFD44100FC30DE /* Test2.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -28,6 +29,7 @@
 		F31CA3AE2795E9D0008CB8B3 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		F31CA3B12795E9D0008CB8B3 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		F31CA3B32795E9D0008CB8B3 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		F3A47D2C27AFD44100FC30DE /* Test2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Test2.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,7 +58,6 @@
 				BDA6DF64A13CA5E795307EB4 /* Pods-testProject.debug.xcconfig */,
 				68A642EBEDE2D94172F30B0B /* Pods-testProject.release.xcconfig */,
 			);
-			name = Pods;
 			path = Pods;
 			sourceTree = "<group>";
 		};
@@ -88,6 +89,7 @@
 				F31CA3AE2795E9D0008CB8B3 /* Assets.xcassets */,
 				F31CA3B02795E9D0008CB8B3 /* LaunchScreen.storyboard */,
 				F31CA3B32795E9D0008CB8B3 /* Info.plist */,
+				F3A47D2C27AFD44100FC30DE /* Test2.swift */,
 			);
 			path = testProject;
 			sourceTree = "<group>";
@@ -207,6 +209,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				F3A47D2D27AFD44100FC30DE /* Test2.swift in Sources */,
 				F31CA3AA2795E9D0008CB8B3 /* ViewController.swift in Sources */,
 				F31CA3A62795E9D0008CB8B3 /* AppDelegate.swift in Sources */,
 				F31CA3A82795E9D0008CB8B3 /* SceneDelegate.swift in Sources */,
