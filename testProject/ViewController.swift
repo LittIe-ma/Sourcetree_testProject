@@ -22,5 +22,6 @@ class ViewController: UIViewController {
     print("add diff")
     print("add diff2")
     print("add diff3")
+    print("add diff4")
   }
 }
