@@ -10,6 +10,6 @@ import Foundation
 class Test2 {
 
     struct Test {
-        
+        var test: String
     }
 }
